@@ -1,5 +1,5 @@
 def division(num1, num2)
-  return (num2 % num1)
+  return (num1 % num2)
 end
 
 def assign_variable(value)
@@ -17,7 +17,7 @@ def greeting(greet , name)
 end
 
 def return_a_value
-  "Nce"
+  return "Nce"
 
 end
 
